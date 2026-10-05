@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1065440453181",
+    "project_id": "line98-af802",
+    "storage_bucket": "line98-af802.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065440453181:android:7ab38ffa00d89a2d49c054",
+        "android_client_info": {
+          "package_name": "com.anhlv.line98"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQjTxTU7HhbybthBB9oThrvCg6fuV4Lbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
